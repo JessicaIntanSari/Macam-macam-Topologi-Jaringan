@@ -39,7 +39,10 @@ Kelebihan: Latensi rendah karena data hanya perlu melewati satu arah. Dapat mena
 Kekurangan: Kerusakan pada satu titik dapat memutuskan seluruh jaringan, meskipun ada varian dengan pemulihan otomatis.
 Pengelolaan dan pemeliharaan bisa rumit jika jaringan tumbuh besar.
 
+
 4. Topologi Mesh
+   ![image](https://github.com/user-attachments/assets/87c65f52-8fa3-4673-8c8d-cc99d657b5aa)
+
 Setiap perangkat terhubung langsung ke perangkat lain, menciptakan banyak jalur komunikasi. 
 
 Kelebihan: Sangat tahan terhadap kerusakan karena ada beberapa jalur komunikasi. Reliabilitas tinggi dan kinerja baik karena jalur komunikasi yang banyak.

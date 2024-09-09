@@ -51,12 +51,15 @@ Kekurangan: Biaya tinggi dan kompleksitas pemasangan karena banyak kabel yang di
 Pemeliharaan rumit dan sulit dikelola jika perangkat bertambah banyak.
 
 5. Topologi Tree
+   ![image](https://github.com/user-attachments/assets/1f78a517-256e-439f-a38b-fc754845f712)
+
 Menggabungkan topologi star dan bus, membentuk struktur hierarkis dengan node pusat (hub) yang terhubung ke beberapa cabang bus.
 
 Kelebihan: Skalabilitas baik karena mudah menambah cabang baru.
 Terstruktur dan mudah dikelola dalam hal troubleshooting.
 
 Kekurangan: Kerusakan pada kabel utama atau node pusat dapat mempengaruhi bagian besar dari jaringan. Lebih kompleks dibandingkan topologi star atau bus.
+
 
 6. Topologi Hybrid
 Menggabungkan beberapa topologi, seperti star-bus atau star-ring, untuk memanfaatkan kelebihan masing-masing.

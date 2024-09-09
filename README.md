@@ -108,3 +108,6 @@ Topologi linier atau sering disebut dengan topologi bus berurut. Umumnya topolog
 Kelebihan: Mudah dikembangkan, 
 penggunaan kabel sedikit,
 tata letak topologi linier sederhana dan mudah, topologi ini tidak membutuhkan kendali sentral.
+
+
+Topologi yang paling baik digunakan adalah topologi star, karena kemudahan pengelolaan dan skalabilitasnya, terutama dengan penggunaan switch yang canggih.

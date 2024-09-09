@@ -70,7 +70,10 @@ Kelebihan: Fleksibilitas tinggi untuk memenuhi berbagai kebutuhan jaringan. Kean
 
 Kekurangan: Kompleksitas perancangan dan manajemen lebih tinggi. Biaya implementasi dan pemeliharaan bisa meningkat.
 
-7. Topologi peer to peer 
+
+7. Topologi peer to peer
+    ![image](https://github.com/user-attachments/assets/f698772e-9cea-4582-b012-bd7d0aadb96b)
+
   Topologi peer to peer adalah topologi jaringan yang sangat sederhana karena hanya menghubungkan 2 komputer. Umumnya topologi peer to peer menggunakan satu kabel saja untuk menghubungkan kedua komputer agar bisa saling berbagai data. 
 
 Kelebihan: Biaya instalasi sangat murah, proses instalasi mudah

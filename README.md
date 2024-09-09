@@ -9,7 +9,6 @@ Topologi jaringan komputer berfungsi untuk mengetahui bagaimana masing-masing ko
 Macam macam topologi beserta kekurangan dan kelebihan 
 
 1. Topologi Bus
-   ![image](https://github.com/user-attachments/assets/4164910a-d70a-47d7-9b84-8a384880b823)
 
 Semua perangkat terhubung ke satu kabel utama (bus) yang mengirimkan data. Data ditransmisikan ke seluruh kabel dan diterima oleh perangkat yang dituju.
 

@@ -62,6 +62,8 @@ Kekurangan: Kerusakan pada kabel utama atau node pusat dapat mempengaruhi bagian
 
 
 6. Topologi Hybrid
+   ![image](https://github.com/user-attachments/assets/ccda80f9-2051-4a22-b172-f63c088abd60)
+
 Menggabungkan beberapa topologi, seperti star-bus atau star-ring, untuk memanfaatkan kelebihan masing-masing.
 
 Kelebihan: Fleksibilitas tinggi untuk memenuhi berbagai kebutuhan jaringan. Keandalan dan efisiensi dari berbagai topologi dapat digabungkan.

@@ -17,6 +17,7 @@ Kelebihan: Sederhana dan murah untuk diimplementasikan. Mudah ditambah dengan pe
 
 Kekurangan: Kerusakan pada kabel utama akan memutuskan seluruh jaringan. Kinerja menurun seiring dengan penambahan perangkat karena lebih banyak tabrakan data.
 
+
 2. Topologi Star
    ![image](https://github.com/user-attachments/assets/12ba1cc4-8db3-42b5-a0a7-c98e819b5ed7)
 
@@ -27,7 +28,10 @@ Semua perangkat terhubung ke hub atau switch pusat yang mengelola komunikasi ant
 Kekurangan: Ketergantungan pada hub atau switch, jika pusat gagal, seluruh jaringan akan terputus.
 Biaya lebih tinggi karena memerlukan lebih banyak kabel dan perangkat pusat.
 
+
 3. Topologi Ring
+   ![image](https://github.com/user-attachments/assets/f47a30cf-a59b-4189-8c02-0f3a1fd09829)
+
 Perangkat terhubung membentuk lingkaran tertutup, dengan data bergerak dalam satu arah atau dua arah di sekitar cincin.
 
 Kelebihan: Latensi rendah karena data hanya perlu melewati satu arah. Dapat menambah perangkat dengan mudah tanpa mempengaruhi jaringan yang ada.

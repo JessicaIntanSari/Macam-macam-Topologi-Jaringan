@@ -17,7 +17,9 @@ Kelebihan: Sederhana dan murah untuk diimplementasikan. Mudah ditambah dengan pe
 
 Kekurangan: Kerusakan pada kabel utama akan memutuskan seluruh jaringan. Kinerja menurun seiring dengan penambahan perangkat karena lebih banyak tabrakan data.
 
-2. Topologi Star:
+2. Topologi Star
+   ![image](https://github.com/user-attachments/assets/12ba1cc4-8db3-42b5-a0a7-c98e819b5ed7)
+
 Semua perangkat terhubung ke hub atau switch pusat yang mengelola komunikasi antar perangkat.
 
  Kelebihan: Jika satu kabel perangkat rusak, perangkat lain tidak terpengaruh. Mudah dikelola dan dipantau, dan menambah atau menghapus perangkat lebih sederhana.
